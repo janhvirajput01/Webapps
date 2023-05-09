@@ -5,7 +5,7 @@
   font-family: "Montserrat", sans-serif;
 }
 body {
-  background: url("/bgimg.jpg") no-repeat center center/cover;
+  background: url("bgimg.jpg") no-repeat center center/cover;
 }
 .container {
   background-color: transparent;
